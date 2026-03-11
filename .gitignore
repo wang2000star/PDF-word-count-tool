@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 构建输出目录（PyInstaller 生成的临时文件和中间产物）
+build/
+dist/
+
+# 其他临时文件（如构建日志）
+build.txt
+
+#  spec 文件
+*.spec
