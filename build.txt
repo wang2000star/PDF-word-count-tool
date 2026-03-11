@@ -1,0 +1,1 @@
+pyinstaller -F -w -n "PDF字数统计工具" --add-data "icon.ico;." --hidden-import=pdfplumber --hidden-import=PyQt6.QtWidgets --hidden-import=PyQt6.QtCore --hidden-import=PyQt6.QtGui -i "icon.ico" pdf_word_count_tool.py --clean

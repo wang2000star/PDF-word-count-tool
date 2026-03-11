@@ -6,8 +6,5 @@ __pycache__/
 build/
 dist/
 
-# 其他临时文件（如构建日志）
-build.txt
-
 #  spec 文件
 *.spec
